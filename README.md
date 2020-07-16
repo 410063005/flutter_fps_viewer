@@ -34,6 +34,8 @@ Container(
 )
 ```
 
+![](screenshots/fps-viewer.gif)
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
